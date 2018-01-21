@@ -1,0 +1,19 @@
+//Projet du site Yashar-El
+
+//features:
+// - Système de news
+// - Articles
+// - Forum
+//
+
+//technics
+// - PHP/MySQL (en POO)
+// - PHPbb (forum)
+// - intégrer du Json?
+//
+
+//todo
+// - définir le squelette
+// - maquette fonctionnelle
+// - maquette graphique
+// - articles en page PHP
